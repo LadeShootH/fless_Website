@@ -1,0 +1,40 @@
+@import '../../styles/colors'
+
+.main-area
+  display: flex
+  flex-direction: column
+  align-items: center
+  gap: 2rem
+
+.main-area h1
+  user-select: none
+  font-size: 86pt
+  font-weight: 900
+  margin: 0
+
+.social-item
+  color: $white
+  text-decoration: none
+  transition: color 0.2s ease-in-out
+  margin: 0 0.5rem
+
+.social-area
+  background-color: $container
+  border-radius: 1rem
+  padding: 0.8rem 2rem
+  display: flex
+  gap: 1rem
+
+.social-area svg
+  font-size: 32pt
+
+.social-item:hover
+  color: $color-primary
+
+.footer-area
+  position: absolute
+  bottom: 2rem
+  display: flex
+  left: 0
+  right: 0
+  justify-content: center
