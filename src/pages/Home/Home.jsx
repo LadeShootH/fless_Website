@@ -14,12 +14,12 @@ export default ({setCurrentPage}) => {
         {
             name: "Twitter",
             icon: faTwitter,
-            link: "https://twitter.com/LadeShootH"
+            link: "https://twitter.com/LeynoxFX"
         },
         {
             name: "Behance",
             icon: faBehance,
-            link: "https://www.behance.net/LadeShootH"
+            link: "https://www.behance.net/leynoxfx"
         },
         {
             name: "LinkedIn",
