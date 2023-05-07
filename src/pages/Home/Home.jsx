@@ -31,7 +31,7 @@ export default ({setCurrentPage}) => {
     return (
         <>
             <div className="main-area">
-                <h1>Leon Fleß</h1>
+                <h1 className="title">Leon Fleß</h1>
                 <div className="social-area">
                     {socials.map((social, index) => (
                         <a href={social.link} key={index} className="social-item" target="_blank">
