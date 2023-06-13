@@ -20,14 +20,10 @@ export default ({setCurrentPage}) => {
                 <div className="left-area">
                     <QRCodeCanvas crossOrigin="anonymous" value={text} id="qrcode" size="256" level="L" fgColor={fgColor} bgColor={bgColor}/>
                     <Button icon={faDownload} text="Download" onClick={() => {
-                        // Download canvas & fix error "tainted canvases may not be exported"
                         const link = document.createElement('a');
                         link.download = 'qrcode.png';
                         link.href = document.getElementById('qrcode').toDataURL();
                         link.click();
-
-                        console.log(dataURL)
-
                     }} />
                 </div>
                 <div className="right-area">
