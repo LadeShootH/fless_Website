@@ -1,7 +1,7 @@
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faBehance, faInstagram, faLinkedin, faTwitter} from "@fortawesome/free-brands-svg-icons";
 import Button from "../../components/Button.jsx";
-import {faQrcode} from "@fortawesome/free-solid-svg-icons";
+import {faQrcode, faRectangleList} from "@fortawesome/free-solid-svg-icons";
 import "./Home.sass";
 
 export default ({setCurrentPage}) => {
@@ -41,7 +41,8 @@ export default ({setCurrentPage}) => {
                 </div>
             </div>
             <div className="footer-area">
-                <Button text="QR-Code Generator" icon={faQrcode} onClick={() => {setCurrentPage("qr")}} />
+                <Button text="Meine Projekte" icon={faRectangleList} onClick={() => {setCurrentPage("projects")}} />
+                <Button text="QR-Code Generator" icon={faQrcode} onClick={() => {setCurrentPage("qr")}} color="gray" />
             </div>
         </>
     )
