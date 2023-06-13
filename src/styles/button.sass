@@ -7,13 +7,17 @@
   border-radius: 1rem
   padding: 1rem 1.5rem
   cursor: pointer
-  transition: background-color 0.2s ease-in-out
+  transition: all 0.2s ease-in-out
   display: flex
   align-items: center
   gap: 1rem
 
 .btn svg
-  font-size: 28pt
+  width: 2rem
+  height: 2rem
+
+.color-gray
+  background-color: $dark-gray
 
 .btn h1
   margin: 0
@@ -21,7 +25,8 @@
   font-weight: 800
 
 .btn:hover
-  background-color: darken($color-primary, 10%)
+  filter: brightness(0.9)
+  transform: scale(1.05)
 
   h1
     color: darken($white, 10%)
