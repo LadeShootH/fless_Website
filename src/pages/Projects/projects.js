@@ -8,7 +8,7 @@ export default [
   },
   {
     title: "Sheepstar",
-    description: "... ist ein Chatbot für die Platform “Discord”. Zusammen mit meinem Freund Mathias habe ich diesen (keine Ahnung Verb). Meine Aufgabe war es hierbei unter anderem den Bot zu vermarkten bzw die Social Media Präsens zu verwalten.",
+    description: "... ist ein Chatbot für die Platform “Discord”. Zusammen mit meinem Freund Mathias habe ich diesen aufgebaut. Meine Aufgabe war es hierbei unter anderem den Bot zu vermarkten bzw die Social Media Präsens zu verwalten.",
     image: SheepstarImage,
   }
 ]
