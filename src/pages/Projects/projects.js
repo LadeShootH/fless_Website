@@ -2,6 +2,12 @@ import SheepstarImage from "./images/sheepstar.png";
 
 export default [
     {
+        title: "Hey, Zukunft!",
+        description: "... ist ein Blog über Themen wie Innovationen, Start-Ups und unsere Zukunft, den ich infolge meines Technik-Journalismus-Studiums 2023 startete.",
+        image: "https://blog.fless.me/wp-content/uploads/2023/08/IMG_0447.png",
+        link: "https://blog.fless.me/"
+    },
+    {
         title: "STOW301",
         description: "... ist ein privater Freiluft-Club in 91301 Forchheim. Ich war hier 1/2 Veranstaltern und war hauptsächlich für das Marketing zuständig.",
         image: "https://i.imgur.com/rtwXhl1.png",
