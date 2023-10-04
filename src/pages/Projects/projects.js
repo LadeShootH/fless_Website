@@ -4,7 +4,7 @@ export default [
     {
         title: "st:dio",
         description: "... ist eine Branding Agency, an welcher ich als Grafik-Designer und Video-Editor für Kunden und die Agentur selbst arbeite.",
-        image: "https://scontent-fra5-2.cdninstagram.com/v/t51.2885-19/366465238_967629864286998_5864536818245601229_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_cat=106&_nc_ohc=gL1PBPMo000AX8uVa1R&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD543qWrR_zOoU5Fa3FO4_N8Ig8KW81uZb4BQwsbv2akg&oe=6521896A&_nc_sid=8b3546",
+        image: "https://i.imgur.com/JJdqVKa.png",
         link: "https://stdio.digital"
     },
     {
