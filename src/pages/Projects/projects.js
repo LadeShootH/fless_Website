@@ -30,5 +30,5 @@ export default [
         description: "... ist der Name, den ich als Grafik-Designer nutze. Angefangen habe ich mit Social Media Bannern, heute erstelle ich vor allem Social Media Posts und Cover-Arts.",
         image: "https://mir-s3-cdn-cf.behance.net/user/230/c283111052894635.612199e4e897f.png",
         link: "https://www.behance.net/leynoxfx"
-    },
+    }
 ]
