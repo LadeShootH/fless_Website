@@ -24,7 +24,7 @@ export default [
         description: "... ist ein Chatbot für die Plattform “Discord”. Zusammen mit meinem Freund Mathias habe ich diesen aufgebaut. Meine Aufgabe war es hierbei unter anderem den Bot zu vermarkten bzw die Social Media Präsenz zu verwalten.",
         image: SheepstarImage,
         link: "https://www.behance.net/gallery/176953699/Sheepstar-Discord-Bot"
-    }
+    },
     {
         title: "LeynoxFX",
         description: "... ist der Name, den ich als Grafik-Designer nutze. Angefangen habe ich mit Social Media Bannern, heute erstelle ich vor allem Social Media Posts und Cover-Arts.",
