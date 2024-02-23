@@ -3,7 +3,7 @@ import SheepstarImage from "./images/sheepstar.png";
 export default [
     {
         title: "st:dio",
-        description: "... ist eine Branding Agency, an welcher ich als Grafik-Designer und Video-Editor für Kunden und die Agentur selbst mitarbeite.",
+        description: "... ist eine Branding Agency, an welcher ich als Grafik-Designer und Video-Editor für Kunden und die Agentur freiberuflich mitarbeite.",
         image: "https://i.imgur.com/JJdqVKa.png",
         link: "https://stdio.digital/"
     },
@@ -21,13 +21,13 @@ export default [
     },
     {
         title: "Sheepstar",
-        description: "... ist ein Chatbot für die Plattform “Discord”. Zusammen mit meinem Freund Mathias habe ich diesen aufgebaut. Meine Aufgabe war es hierbei unter anderem den Bot zu vermarkten bzw die Social Media Präsenz zu verwalten.",
+        description: "... ist ein Chatbot für die Plattform “Discord”. Zusammen mit meinem Freund Mathias habe ich diesen aufgebaut. Meine Aufgabe war es hierbei unter anderem den Bot zu vermarkten und die Social Media Präsenz zu verwalten.",
         image: SheepstarImage,
         link: "https://www.behance.net/gallery/176953699/Sheepstar-Discord-Bot"
     },
     {
         title: "LeynoxFX",
-        description: "... ist der Name, den ich als Grafik-Designer nutze. Angefangen habe ich mit Social Media Bannern, heute erstelle ich vor allem Social Media Posts und Cover-Arts.",
+        description: "... ist der Name, den ich online als Grafik-Designer nutze. Angefangen habe ich mit Social Media Bannern, heute erstelle ich vor allem Social Media Posts, Werbebanner und Cover-Arts.",
         image: "https://mir-s3-cdn-cf.behance.net/user/230/c283111052894635.612199e4e897f.png",
         link: "https://www.behance.net/leynoxfx"
     }
