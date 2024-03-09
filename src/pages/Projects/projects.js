@@ -31,4 +31,10 @@ export default [
         image: "https://mir-s3-cdn-cf.behance.net/user/230/c283111052894635.612199e4e897f.png",
         link: "https://www.behance.net/leynoxfx"
     }
+        {
+        title: "LeynoxFX - Fiverr",
+        description: "Auf dieser Plattform arbeite ich bereits seit 2020 als freiberuflicher Creator für Kunden jeglicher Art. Mein Schwerpunkt liegt dabei auf der Erstellung ansprechender Digitalmedien, darunter Instagram-Posts, Songcover und Video-Thumbnails.",
+        image: "https://miro.medium.com/v2/resize:fit:1400/1*cO7zcspeBASnfjFY6PAlgw.jpeg",
+        link: "https://de.fiverr.com/leynoxartz"
+    }
 ]
