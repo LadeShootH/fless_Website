@@ -34,7 +34,7 @@ export default [
         {
         title: "LeynoxFX - Fiverr",
         description: "Auf dieser Plattform arbeite ich bereits seit 2020 als freiberuflicher Creator für Kunden jeglicher Art. Mein Schwerpunkt liegt dabei auf der Erstellung ansprechender Digitalmedien, darunter Instagram-Posts, Songcover und Video-Thumbnails.",
-        image: "https://miro.medium.com/v2/resize:fit:1400/1*cO7zcspeBASnfjFY6PAlgw.jpeg",
+        image: "https://seeklogo.com/images/F/fiverr-new-2020-logo-354E8A08FD-seeklogo.com.png",
         link: "https://de.fiverr.com/leynoxartz"
     }
 ]
