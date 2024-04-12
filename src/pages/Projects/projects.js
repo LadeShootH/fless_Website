@@ -3,7 +3,7 @@ import SheepstarImage from "./images/sheepstar.png";
 export default [
     {
         title: "st:dio",
-        description: "... ist eine Branding Agency, an welcher ich als Grafik-Designer und Video-Editor für Kunden und die Agentur freiberuflich mitarbeite.",
+        description: "... ist eine Branding Agency, an welcher ich freiberuflich als Grafik-Designer und Video-Editor für Kunden und die Agentur mitarbeite.",
         image: "https://i.imgur.com/JJdqVKa.png",
         link: "https://stdio.digital/"
     },
