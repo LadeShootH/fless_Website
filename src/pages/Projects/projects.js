@@ -3,7 +3,7 @@ import SheepstarImage from "./images/sheepstar.png";
 export default [
      {
         title: "STOW301",
-        description: "... ist ein Kulturverein in 91301 Forchheim, mit dem Zweck, lokale Künstler zu fördern. Ich bin hierbei 1 von 2 Veranstaltern und hauptsächlich für das Marketing zuständig.",
+        description: "... ist ein Kulturverein in 91301 Forchheim, mit dem Zweck, lokale Künstler zu fördern. Ich bin der 2. Vorstandsvorsitzende und hauptsächlich für das Marketing zuständig.",
         image: "https://i.imgur.com/25dHmqT.png",
         link: "https://www.behance.net/gallery/145653905/Stow301-Social-Media-Posts"
     },
