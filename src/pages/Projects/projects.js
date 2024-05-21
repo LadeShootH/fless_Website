@@ -1,6 +1,12 @@
 import SheepstarImage from "./images/sheepstar.png";
 
 export default [
+     {
+        title: "STOW301",
+        description: "... ist ein Kulturverein in 91301 Forchheim, mit dem Zweck, lokale Künstler zu fördern. Ich bin hierbei 1 von 2 Veranstaltern und hauptsächlich für das Marketing zuständig.",
+        image: "https://i.imgur.com/25dHmqT.png",
+        link: "https://www.behance.net/gallery/145653905/Stow301-Social-Media-Posts"
+    },
     {
         title: "st:dio",
         description: "... ist eine Branding Agency, an welcher ich freiberuflich als Grafik-Designer und Video-Editor für Kunden und die Agentur mitarbeite.",
@@ -12,12 +18,6 @@ export default [
         description: "... ist ein Blog über Themen wie Innovationen, Start-Ups und unsere Zukunft, den ich infolge meines Technikjournalismus-Studiums 2023 startete.",
         image: "https://blog.fless.me/wp-content/uploads/2023/08/IMG_0447.png",
         link: "https://blog.fless.me/"
-    },
-    {
-        title: "STOW301",
-        description: "... ist ein Kulturverein in 91301 Forchheim, mit dem Zweck, lokale Künstler zu fördern. Ich bin hierbei 1 von 2 Veranstaltern und hauptsächlich für das Marketing zuständig.",
-        image: "https://i.imgur.com/25dHmqT.png",
-        link: "https://www.behance.net/gallery/145653905/Stow301-Social-Media-Posts"
     },
     {
         title: "Sheepstar",
