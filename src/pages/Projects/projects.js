@@ -7,18 +7,25 @@ export default [
         image: "https://i.imgur.com/25dHmqT.png",
         link: "https://www.behance.net/gallery/145653905/Stow301-Social-Media-Posts"
     },
+         {
+        title: "LeynoxFX",
+        description: "... ist der Name, unter dem ich als Grafik-Designer tätig bin. Angefangen habe ich mit Social Media Bannern, heute erstelle ich hauptsächlich Social Media Posts, Werbebanner und Cover Art.",
+        image: "https://mir-s3-cdn-cf.behance.net/user/230/c283111052894635.612199e4e897f.png",
+        link: "https://www.behance.net/leynoxfx"
+    },
+         {
+        title: "st:dio",
+        description: "... ist eine Branding-Agentur, in der ich freiberuflich als Grafik-Designer und Video-Editor für Kunden und die Agentur tätig bin.",
+        image: "https://i.imgur.com/JJdqVKa.png",
+        link: "https://stdio.digital/"
+    },
      {
         title: "LEON301",
         description: "... ist ein Musikerprofil von mir, auf dem ich KI-Songs veröffentliche.",
         image: "https://i.scdn.co/image/ab67616d00001e023676102cf8a48f25bfa9cda6",
         link: "https://open.spotify.com/intl-de/artist/5hFm781ZE8EQ0pg2lrFSWa?si=eTbBg8duQDeTOst4ViJRFA"
     },
-    {
-        title: "st:dio",
-        description: "... ist eine Branding-Agentur, in der ich freiberuflich als Grafik-Designer und Video-Editor für Kunden und die Agentur tätig bin.",
-        image: "https://i.imgur.com/JJdqVKa.png",
-        link: "https://stdio.digital/"
-    },
+
     {
         title: "Hey, Zukunft!",
         description: "... ist ein Blog über Innovationen, Start-Ups und unsere Zukunft, den ich im infolge an mein Technikjournalismus-Studium 2023 gestartet habe.",
@@ -30,12 +37,6 @@ export default [
         description: "... ist ein Chatbot für die Plattform “Discord”. Zusammen mit meinem Freund Mathias habe ich ihn entwickelt. Meine Aufgabe war es, den Bot zu vermarkten und die Social-Media-Präsenz zu betreuen.",
         image: SheepstarImage,
         link: "https://www.behance.net/gallery/176953699/Sheepstar-Discord-Bot"
-    },
-    {
-        title: "LeynoxFX",
-        description: "... ist der Name, unter dem ich als Grafik-Designer tätig bin. Angefangen habe ich mit Social Media Bannern, heute erstelle ich hauptsächlich Social Media Posts, Werbebanner und Cover Art.",
-        image: "https://mir-s3-cdn-cf.behance.net/user/230/c283111052894635.612199e4e897f.png",
-        link: "https://www.behance.net/leynoxfx"
     },
         {
         title: "LeynoxFX - Fiverr",
