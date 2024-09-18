@@ -5,7 +5,7 @@ export default [
         title: "STOW301",
         description: "... ist ein Kulturverein in 91301 Forchheim mit dem Ziel, lokale Künstler zu fördern und die Jugendkultur zu stärken. Ich bin 2. Vorstand und hauptsächlich für das Marketing zuständig.",
         image: "https://i.imgur.com/25dHmqT.png",
-        link: "https://www.behance.net/gallery/145653905/Stow301-Social-Media-Posts"
+        link: "https://stow301.de"
     },
          {
         title: "LeynoxFX",
@@ -36,7 +36,7 @@ export default [
         title: "Sheepstar",
         description: "... ist ein Chatbot für die Plattform “Discord”. Zusammen mit meinem Freund Mathias habe ich ihn entwickelt. Meine Aufgabe war es, den Bot zu vermarkten und die Social-Media-Präsenz zu betreuen.",
         image: SheepstarImage,
-        link: "https://www.behance.net/gallery/176953699/Sheepstar-Discord-Bot"
+        link: "https://sheepstar.xyz/"
     },
         {
         title: "LeynoxFX - Fiverr",
