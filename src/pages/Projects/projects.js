@@ -19,25 +19,25 @@ export default [
         image: "https://i.imgur.com/JJdqVKa.png",
         link: "https://stdio.digital/"
     },
-     {
-        title: "LEON301",
-        description: "... ist ein Musikerprofil von mir, auf dem ich KI-Songs veröffentliche.",
-        image: "https://i.scdn.co/image/ab67616d00001e023676102cf8a48f25bfa9cda6",
-        link: "https://open.spotify.com/intl-de/artist/5hFm781ZE8EQ0pg2lrFSWa?si=eTbBg8duQDeTOst4ViJRFA"
-    },
+//     {
+//        title: "LEON301",
+//        description: "... ist ein Musikerprofil von mir, auf dem ich KI-Songs veröffentliche.",
+//        image: "https://i.scdn.co/image/ab67616d00001e023676102cf8a48f25bfa9cda6",
+//        link: "https://open.spotify.com/intl-de/artist/5hFm781ZE8EQ0pg2lrFSWa?si=eTbBg8duQDeTOst4ViJRFA"
+//    },
 
-    {
-        title: "Hey, Zukunft!",
-        description: "... ist ein Blog über Innovationen, Start-Ups und unsere Zukunft, den ich im infolge an mein Technikjournalismus-Studium 2023 gestartet habe.",
-        image: "https://blog.fless.me/wp-content/uploads/2023/08/IMG_0447.png",
-        link: "https://blog.fless.me/"
-    },
-    {
-        title: "Sheepstar",
-        description: "... ist ein Chatbot für die Plattform “Discord”. Zusammen mit meinem Freund Mathias habe ich ihn entwickelt. Meine Aufgabe war es, den Bot zu vermarkten und die Social-Media-Präsenz zu betreuen.",
-        image: SheepstarImage,
-        link: "https://sheepstar.xyz/"
-    },
+//    {
+//        title: "Hey, Zukunft!",
+//        description: "... ist ein Blog über Innovationen, Start-Ups und unsere Zukunft, den ich im infolge an mein Technikjournalismus-Studium 2023 gestartet habe.",
+//        image: "https://blog.fless.me/wp-content/uploads/2023/08/IMG_0447.png",
+//        link: "https://blog.fless.me/"
+//    },
+//    {
+//        title: "Sheepstar",
+//        description: "... ist ein Chatbot für die Plattform “Discord”. Zusammen mit meinem Freund Mathias habe ich ihn entwickelt. Meine Aufgabe war es, den Bot zu vermarkten und die Social-Media-Präsenz zu betreuen.",
+//        image: SheepstarImage,
+//        link: "https://sheepstar.xyz/"
+//    },
         {
         title: "LeynoxFX - Fiverr",
         description: "Auf dieser Plattform arbeite ich seit 2020 als freiberuflicher Kreativer für Kunden aller Art. Mein Schwerpunkt liegt auf der Erstellung von ansprechenden digitalen Medien wie Instagram-Posts, Songcover und Video-Thumbnails.",
